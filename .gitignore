@@ -1,9 +1,13 @@
 # Compiled class file
-*.out/
+*.class
 
 # Idea
 *.idea
 
+# Compiled
+.out/
+*.out/
+*out/
 
 # Log file
 *.log
